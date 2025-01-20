@@ -5,6 +5,15 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "name": "Numbers",
+            "program": "${workspaceFolder}\\2. Syntax, Variables and Data Types\\6. Storing Numeric Values",
+            "request": "launch",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "type": "node"
+        },
+        {
             "name": "Booleans",
             "program": "${workspaceFolder}\\2. Syntax, Variables and Data Types\\5. Using Boolean Values",
             "request": "launch",
@@ -13,6 +22,7 @@
             ],
             "type": "node"
         },
+
         {
             "name": "Strings",
             "program": "${workspaceFolder}\\2. Syntax, Variables and Data Types\\4. Creating and Using Strings",
