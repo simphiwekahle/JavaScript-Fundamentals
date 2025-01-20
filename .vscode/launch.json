@@ -5,7 +5,16 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "Launch Program 4",
+            "name": "Strings",
+            "program": "${workspaceFolder}\\2. Syntax, Variables and Data Types\\4. Creating and Using Strings",
+            "request": "launch",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "type": "node"
+        },
+        {
+            "name": "Variables",
             "program": "${workspaceFolder}\\2. Syntax, Variables and Data Types\\3. Data Types",
             "request": "launch",
             "skipFiles": [
@@ -14,7 +23,7 @@
             "type": "node"
         },
         {
-            "name": "Launch Program 3",
+            "name": "Variables",
             "program": "${workspaceFolder}\\2. Syntax, Variables and Data Types\\2. Variables",
             "request": "launch",
             "skipFiles": [
@@ -24,7 +33,7 @@
         },
 
         {
-            "name": "Launch Program 2",
+            "name": "Comments",
             "program": "${workspaceFolder}\\2. Syntax, Variables and Data Types\\1. Comments",
             "request": "launch",
             "skipFiles": [
