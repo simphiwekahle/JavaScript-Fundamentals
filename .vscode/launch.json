@@ -5,6 +5,15 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "name": "Launch Program 4",
+            "program": "${workspaceFolder}\\2. Syntax, Variables and Data Types\\3. Data Types",
+            "request": "launch",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "type": "node"
+        },
+        {
             "name": "Launch Program 3",
             "program": "${workspaceFolder}\\2. Syntax, Variables and Data Types\\2. Variables",
             "request": "launch",
@@ -13,7 +22,7 @@
             ],
             "type": "node"
         },
-        
+
         {
             "name": "Launch Program 2",
             "program": "${workspaceFolder}\\2. Syntax, Variables and Data Types\\1. Comments",
