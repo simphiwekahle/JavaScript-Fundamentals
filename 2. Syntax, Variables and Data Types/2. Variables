@@ -1,0 +1,9 @@
+// Assigning variables values
+let firstName = "Sphephelo";
+let lastName = "Ndimande";
+let numYearsEmployment = 2;
+let dateBirth = new Date("July 5, 1997");
+
+/*
+    Dynamic Typing
+*/
