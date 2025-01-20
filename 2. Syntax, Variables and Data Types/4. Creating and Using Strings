@@ -60,7 +60,7 @@ console.log(`Index 1: ${index1}`);
 let index2 = fullName.indexOf("nde");
 console.log(`Index 2: ${index2}`);
 let index3 = fullName.indexOf("abc"); // Finding a value that doesn't exist.
-console.log(`Index 2: ${index3}`);
+console.log(`Index 2: ${index3}`); // -1
 
 // Does a string contain a substring
 let doesContain = fullName.includes("phe");
