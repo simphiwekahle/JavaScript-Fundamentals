@@ -5,6 +5,15 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "name": "Null and Undefined",
+            "program": "${workspaceFolder}\\2. Syntax, Variables and Data Types\\7. Understanding Null and Undefined",
+            "request": "launch",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "type": "node"
+        },
+        {
             "name": "Numbers",
             "program": "${workspaceFolder}\\2. Syntax, Variables and Data Types\\6. Storing Numeric Values",
             "request": "launch",
