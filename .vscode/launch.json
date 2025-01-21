@@ -5,6 +5,16 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "name": "Dates",
+            "program": "${workspaceFolder}\\2. Syntax, Variables and Data Types\\9. Working with Dates",
+            "request": "launch",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "type": "node"
+        },
+        
+        {
             "name": "Objects",
             "program": "${workspaceFolder}\\2. Syntax, Variables and Data Types\\8. JavaScript Objects",
             "request": "launch",
