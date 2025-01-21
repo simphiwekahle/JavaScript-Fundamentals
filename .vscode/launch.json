@@ -5,8 +5,17 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "name": "Classes",
+            "program": "${workspaceFolder}\\2. Syntax, Variables and Data Types\\10. Classes.js",
+            "request": "launch",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "type": "node"
+        },
+        {
             "name": "Dates",
-            "program": "${workspaceFolder}\\2. Syntax, Variables and Data Types\\9. Working with Dates",
+            "program": "${workspaceFolder}\\2. Syntax, Variables and Data Types\\9. Working with Dates.js",
             "request": "launch",
             "skipFiles": [
                 "<node_internals>/**"
@@ -16,7 +25,7 @@
         
         {
             "name": "Objects",
-            "program": "${workspaceFolder}\\2. Syntax, Variables and Data Types\\8. JavaScript Objects",
+            "program": "${workspaceFolder}\\2. Syntax, Variables and Data Types\\8. JavaScript Objects.js",
             "request": "launch",
             "skipFiles": [
                 "<node_internals>/**"
@@ -26,7 +35,7 @@
 
         {
             "name": "Null and Undefined",
-            "program": "${workspaceFolder}\\2. Syntax, Variables and Data Types\\7. Understanding Null and Undefined",
+            "program": "${workspaceFolder}\\2. Syntax, Variables and Data Types\\7. Understanding Null and Undefined.js",
             "request": "launch",
             "skipFiles": [
                 "<node_internals>/**"
@@ -36,7 +45,7 @@
 
         {
             "name": "Numbers",
-            "program": "${workspaceFolder}\\2. Syntax, Variables and Data Types\\6. Storing Numeric Values",
+            "program": "${workspaceFolder}\\2. Syntax, Variables and Data Types\\6. Storing Numeric Values.js",
             "request": "launch",
             "skipFiles": [
                 "<node_internals>/**"
@@ -45,7 +54,7 @@
         },
         {
             "name": "Booleans",
-            "program": "${workspaceFolder}\\2. Syntax, Variables and Data Types\\5. Using Boolean Values",
+            "program": "${workspaceFolder}\\2. Syntax, Variables and Data Types\\5. Using Boolean Values.js",
             "request": "launch",
             "skipFiles": [
                 "<node_internals>/**"
@@ -55,7 +64,7 @@
 
         {
             "name": "Strings",
-            "program": "${workspaceFolder}\\2. Syntax, Variables and Data Types\\4. Creating and Using Strings",
+            "program": "${workspaceFolder}\\2. Syntax, Variables and Data Types\\4. Creating and Using Strings.js",
             "request": "launch",
             "skipFiles": [
                 "<node_internals>/**"
@@ -65,7 +74,7 @@
         
         {
             "name": "Data Types",
-            "program": "${workspaceFolder}\\2. Syntax, Variables and Data Types\\3. Data Types",
+            "program": "${workspaceFolder}\\2. Syntax, Variables and Data Types\\3. Data Types.js",
             "request": "launch",
             "skipFiles": [
                 "<node_internals>/**"
@@ -75,7 +84,7 @@
 
         {
             "name": "Variables",
-            "program": "${workspaceFolder}\\2. Syntax, Variables and Data Types\\2. Variables",
+            "program": "${workspaceFolder}\\2. Syntax, Variables and Data Types\\2. Variables.js",
             "request": "launch",
             "skipFiles": [
                 "<node_internals>/**"
@@ -85,7 +94,7 @@
 
         {
             "name": "Comments",
-            "program": "${workspaceFolder}\\2. Syntax, Variables and Data Types\\1. Comments",
+            "program": "${workspaceFolder}\\2. Syntax, Variables and Data Types\\1. Comments.js",
             "request": "launch",
             "skipFiles": [
                 "<node_internals>/**"
@@ -100,7 +109,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}\\1. Getting Started with JavaScript\\Index"
+            "program": "${workspaceFolder}\\1. Getting Started with JavaScript\\Index.js"
         }
     ]
 }
