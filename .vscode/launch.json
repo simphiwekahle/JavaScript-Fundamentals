@@ -5,6 +5,15 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "name": "Type Conversion",
+            "program": "${workspaceFolder}\\3. Data Type Conversion\\1. Type Conversion.js",
+            "request": "launch",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "type": "node"
+        },
+        {
             "name": "Classes",
             "program": "${workspaceFolder}\\2. Syntax, Variables and Data Types\\10. Classes.js",
             "request": "launch",
