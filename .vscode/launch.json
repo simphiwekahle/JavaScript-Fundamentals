@@ -5,6 +5,15 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "name": "Formatting Numbers",
+            "program": "${workspaceFolder}\\3. Data Type Conversion\\3. Formatting Numbers",
+            "request": "launch",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "type": "node"
+        },
+        {
             "name": "JSON",
             "program": "${workspaceFolder}\\3. Data Type Conversion\\2. JSON.js",
             "request": "launch",
