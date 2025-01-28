@@ -5,6 +5,15 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "name": "Falsy Values",
+            "program": "${workspaceFolder}\\4. Conditional Logic and Control Flow\\4. Falsy Values",
+            "request": "launch",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "type": "node"
+        },
+        {
             "name": "Comparison Operators",
             "program": "${workspaceFolder}\\4. Conditional Logic and Control Flow\\3. Comparison Operators",
             "request": "launch",
