@@ -7,7 +7,7 @@ let employee = {
     isEmployed: true,
     department: "ICT",
     title: "Junior Software Developer"
-}
+};
 
 // Module introduction example 
 let badgeColor;

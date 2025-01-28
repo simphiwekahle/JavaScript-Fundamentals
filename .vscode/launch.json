@@ -5,6 +5,15 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "name": "Switch Statement",
+            "program": "${workspaceFolder}\\4. Conditional Logic and Control Flow\\6. Switch Statement",
+            "request": "launch",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "type": "node"
+        },
+        {
             "name": "Conditional Logic",
             "program": "${workspaceFolder}\\4. Conditional Logic and Control Flow\\5. Conditional Logic",
             "request": "launch",
