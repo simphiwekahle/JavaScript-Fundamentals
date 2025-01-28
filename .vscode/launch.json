@@ -5,6 +5,15 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "name": "Assignment Operators",
+            "program": "${workspaceFolder}\\4. Conditional Logic and Control Flow\\2. Assignment Operators.js",
+            "request": "launch",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "type": "node"
+        },
+        {
             "name": "Maths Operators",
             "program": "${workspaceFolder}\\4. Conditional Logic and Control Flow\\1. Mathematical Operators.js",
             "request": "launch",
